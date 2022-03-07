@@ -1,0 +1,15 @@
+{
+    "global": {
+        "language": null,
+        "project_name": "env-test",
+        "stage_name": "dev",
+        "cloud_account_id": "54321",
+        "cloud_region": "us-east-1"
+    },
+    "last": {
+        "language": null,
+        "stage_name": "dev",
+        "cloud_account_id": "54321",
+        "cloud_region": "us-east-1"
+    }
+}

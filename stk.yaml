@@ -1,0 +1,16 @@
+applied_templates:
+- inputs:
+    project_name: env-test
+  template_data_path: Testes/template
+- inputs:
+    cloud_account_id: '12345'
+    cloud_region: us-east-1
+    stage_name: sandbox
+  template_data_path: templates/stages_plugin
+- inputs:
+    cloud_account_id: '54321'
+    cloud_region: us-east-1
+    stage_name: dev
+  template_data_path: templates/stages_plugin
+global_inputs: {}
+stack_type: env
